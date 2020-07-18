@@ -22,7 +22,7 @@ p {
   width: 180px;
 }
 body {
-  background-image: linear-gradient(to right top, #f2b8d9, #ffb2c4, #ffb2a2, #ffbc7c, #ffcd5b, #eadb58, #cee960, #acf672, #8bfa97, #6dfdba, #5bfdd9, #5ffbf1);
+  background: linear-gradient(to right top, #f2b8d9, #ffb2c4, #ffb2a2, #ffbc7c, #ffcd5b, #eadb58, #cee960, #acf672, #8bfa97, #6dfdba, #5bfdd9, #5ffbf1);
   background-repeat: no-repeat;
 }
 
@@ -30,9 +30,7 @@ body {
    color:blue;
   font-style: italic;
 }
-form {
-  background-image: linear-gradient(to right bottom, #e70028, #f04f13, #f37900, #f29e00, #ecc000, #d7d319, #bee539, #9ff55b, #75f785, #4af7ab, #1df4ca, #1cf0e3);
-}
+
 
 .btn {
  color: black;
