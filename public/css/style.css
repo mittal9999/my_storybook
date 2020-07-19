@@ -1,64 +1,22 @@
 p {
-  margin: 10px  0 !important;
+  margin: 10px 0 !important;
 }
 
-
 .login-container {
-   widows: 400px;
-   margin-top: 50px; 
-   text-align: center;
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
 }
 
 .fa-small {
-    font-size:16px !important ;
+  font-size: 16px !important;
 }
 
 .btn-float {
-   float: left;
-   margin-right:10px ;
+  float: left;
+  margin-right: 10px;
 }
 
-.img-small{
+.img-small {
   width: 180px;
 }
-body {
-  background: linear-gradient(to right top, #f2b8d9, #ffb2c4, #ffb2a2, #ffbc7c, #ffcd5b, #eadb58, #cee960, #acf672, #8bfa97, #6dfdba, #5bfdd9, #5ffbf1);
-  background-repeat: no-repeat;
-}
-
-.input-field {
-   color:blue;
-  font-style: italic;
-}
-
-
-.btn {
- color: black;
-}
- .lead {
-    font: lighter;
- }
-
- .card-title {
-   background:olive;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
- }
-
- .card-content {
-   background-color: peru;
- }
-.p1 {
- font-family: 'Times New Roman', Times, serif;
- font-size: medium;
-}
-#wel {
-  font-style: italic;
-  font-variant: initial;
-  color: crimson;
-}
-
-
-
-
-
- 

@@ -139,13 +139,13 @@ router.get('/add', ensureAuth, (req, res) => {
     try {
       const stories = await Story.find({
         user: req.params.userId,
-        status: 'public',
+        status: 'public'
       })
         .populate('user')
         .lean()
   
       res.render('stories/index', {
-        stories,
+        stories
       })
     } catch (err) {
       console.error(err)
